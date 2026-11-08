@@ -1,0 +1,6 @@
+*.exe
+*.o
+logbook.txt
+trawler_save.txt
+VIVA_GUIDE.md
+.claude/
