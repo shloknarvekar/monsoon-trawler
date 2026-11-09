@@ -4,12 +4,7 @@
 // goal is to make Rs 1,00,000 before december
 // no fishing in june and july (monsoon ban)
 
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include <cstdlib>
-#include <ctime>
+#include <bits/stdc++.h>
 using namespace std;
 
 const int GOAL = 100000;
